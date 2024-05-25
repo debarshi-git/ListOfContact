@@ -1,0 +1,6 @@
+@contactList_HostAddress = http://localhost:5077
+
+GET {{contactList_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
